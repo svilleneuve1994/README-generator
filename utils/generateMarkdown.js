@@ -192,7 +192,6 @@ function generateMarkdown(data) {
   ## - [Description](#description)
   ## - [Installation](#installation)
   ## - [Usage](#usage)
-  ## - [License](#license)
   ## - [Contribute](#contribute)
   ## - [Testing](#testing)
   ## - [License](#license)
@@ -207,14 +206,14 @@ function generateMarkdown(data) {
   # Usage
   ## ${data.usingRepo}
   ##
-  # License
-  ## ${renderLicenseSection(license)}
-  ##
   # Contribute
   ## ${data.contributeRepo}
   ##
   # Testing
   ## ${data.testCommand}
+  ##
+  # License
+  ## ${renderLicenseSection(license)}
   ##
   # Contact
   ## ${data.userName}
