@@ -28,7 +28,7 @@ const questions = [
       type: 'checkbox',
       message: 'What kind of license should your project have?',
       name: 'license',
-      choices: ['Apache', 'Boost', 'BSD 2', 'BSD 3', 'Creative Commons 0', 'Eclipse', 'GNU GPL v3', 'GNU GPL v2', 'GNU AGPL v3', 'GNU LGPL v3', 'GNU FDL v1.3', 'IBM', 'ISC', 'MIT', 'Mozilla', 'Open Data Commons - Attribution License (BY)', 'Open Data Commons - Open Database License (ODbL)', 'Open Data Commons - Public Domain Dedication and License (PDDL)', 'Perl - The Perl License', 'Perl - The Artistic License 2.0', 'SIL', 'Unlicense', 'WTFPL', 'Zlib'],
+      choices: [' Apache', ' Boost', ' BSD 2', ' BSD 3', ' Creative Commons 0', ' Eclipse', ' GNU GPL v3', ' GNU GPL v2', ' GNU AGPL v3', ' GNU LGPL v3', ' GNU FDL v1.3', ' IBM', ' ISC', ' MIT', ' Mozilla', ' Open Data Commons - Attribution License (BY)', ' Open Data Commons - Open Database License (ODbL)', ' Open Data Commons - Public Domain Dedication and License (PDDL)', ' Perl - The Perl License', ' Perl - The Artistic License 2.0', ' SIL', ' Unlicense', ' WTFPL', ' Zlib'],
     },
 		{
       type: 'input',

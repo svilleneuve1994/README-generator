@@ -20,16 +20,16 @@
   ## 
   ##
   # License
-  ## ## [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  ## This project is licensed under Apache.
-  ## https://opensource.org/licenses/Apache-2.0
+  ## [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0),[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt),[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  ## This project is licensed under  Apache, Boost, BSD 2.
+  ##  https://opensource.org/licenses/Apache-2.0, https://www.boost.org/LICENSE_1_0.txt, https://opensource.org/licenses/BSD-2-Clause
   ##
-  # How to Contribute
+  # Contribute
   ## 
   ##
   # Testing
   ## 
   ##
-  # Contact Me
-  ## jokaire
+  # Contact
+  ## 
   ## 
